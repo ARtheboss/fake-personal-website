@@ -38,7 +38,7 @@ const defaultConfig = {
     "hero": {
       "eyebrow": "Computer architecture \u00b7 hardware \u00b7 systems",
       "headline": "I design and model large-scale systems and verify they actually work.",
-      "subheadline": "I'm a UC Berkeley EECS grad (class of 2026) focused on computer architecture and digital design. I've built performance models for ML accelerators, FPGA systems for trading, and CPU design tooling, with research on LLMs for hardware design along the way.",
+      "subheadline": "I'm a UC Berkeley EECS grad (class of 2026) focused on computer architecture and digital design. Most of what I do is performance models for ML accelerators, FPGA systems for trading, and CPU design tooling, with research on LLMs for hardware design along the way.",
       "summary": "The entries below are the ones I'd point someone to. They cover chip performance modeling, FPGA and CPU design internships, a 16nm tapeout project, hardware/ML research, and Berkeleytime, the course-planning platform I led \u2014 plus some of the earlier projects that got me here.",
       "actions": [],
       "links": [
